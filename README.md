@@ -3,6 +3,7 @@
 
 <h2>This is a ML project done using Python and its modules:</h2>
   
+  <li><a href="#">scikit-learn<a></li>
   <li><a href ="https://numpy.org/doc/stable/user/whatisnumpy.html">numpy</a></li>
   <li><a href="https://pandas.pydata.org/docs/getting_started/overview.html#:~:text=pandas%20is%20a%20Python%20package,world%20data%20analysis%20in%20Python.">pandas</a></li>
   <li><a href ="https://matplotlib.org/">matplotlib</a></li>
