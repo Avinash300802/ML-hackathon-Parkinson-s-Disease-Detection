@@ -2,3 +2,6 @@
 <img src="https://github.com/Avinash300802/ML-hackathon-Parkinsons-Disease-Detection/blob/main/1.png">
 
 <h2>This is a ML project done using Python and its modules:</h2><h3><li>scikit-learn</li><li>numpy</li><li>pandas</li><li>matplotlib</h3>
+
+<h2>Model used : </h2><h3><p>Support Vector Machine Algorithm
+Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.</p></h3>
